@@ -40,7 +40,7 @@ Setup Instructions
 1.	Clone the Repository:
    
         git clone https://github.com/swafwanck/EcommerceAPI.git
-        cd EcommerceAPI
+        cd EcommerceAPI 
   	
 2.	Create a Virtual Environment:
            
